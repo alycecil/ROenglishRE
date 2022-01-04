@@ -9,16 +9,21 @@
 41 Disable Nagle Algorithm (Recommended)
 44 Translate Client (Recommended)
 46 Use Normal Guild Brackets (Recommended)
+47 Use Ragnarok Icon
+48 Use Plain Text Descriptions (Recommended)
 49 Enable Multiple GRFs (Recommended)
+50 Skip License Screen
 64 @ Bug Fix (Recommended)
 65 Load Custom lua file instead of iteminfo*.lub (Recommended)
 73 Remove Hourly Announce (Recommended)
 84 Remove Serial Display (Recommended)
 90 Enable DNS Support (Recommended)
 213 Disable Help Message on Login (Recommended)
+216 Hide Cash Shop
 231 Remove hardcoded address/port (Recommended)
 232 Restore old login packet (Recommended)
 244 Disable Cheat Defender Game Guard (Recommended)
+246 Increase hair style limit in game
 270 Change AchievementList*.lub path
 272 Change Towninfo*.lub path
 273 Change PetEvolutionCln*.lub path
@@ -31,3 +36,6 @@
 291 Hide packets from peek (Recommended)
 312 Always see hidden/cloaked objects
 313 Change MapInfo*.lub path
+344 Mvp Drop Item Use Identified Name
+409 Add close button to game window
+410 Use small titlebar in game window
